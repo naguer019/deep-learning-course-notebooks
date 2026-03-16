@@ -3,6 +3,7 @@
 | Notebook | Topic | Colab |
 |----------|-------|-------|
 | Notebook 0 | PyTorch Fundamentals | [Open in Colab](https://colab.research.google.com/drive/11llJ3i4BvuWb9ykW06dAznlhYwAewDce?usp=sharing) |
+| Notebook 1 | Linear Regression | [Open in Colab](https://colab.research.google.com/drive/1UK8rMGzpagspFNIVZ_zWJD1ScR7TrpOC?usp=sharing) |
 
 ---
 
